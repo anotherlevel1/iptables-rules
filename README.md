@@ -1,2 +1,4 @@
 # iptables-rules
-Bash script to apply iptables rules
+A simple bash script to apply iptables rules
+
+
